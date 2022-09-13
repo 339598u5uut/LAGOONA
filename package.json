@@ -1,19 +1,19 @@
 {
-  "name": "lagoona",
-  "version": "1.0.0",
-  "description": "Landing Page",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/339598u5uut/LAGOONA.git"
-  },
-  "author": "N.Kiva",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/339598u5uut/LAGOONA/issues"
-  },
-  "homepage": "https://github.com/339598u5uut/LAGOONA#readme"
+    "name": "lagoona",
+    "version": "1.0.0",
+    "description": "Landing Page",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/339598u5uut/LAGOONA.git"
+    },
+    "author": "N.Kiva",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/339598u5uut/LAGOONA/issues"
+    },
+    "homepage": "https://339598u5uut.github.io/LAGOONA/"
 }
