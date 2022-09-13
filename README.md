@@ -32,7 +32,7 @@
 5.	Запускаем проект c помощью live Server.
 
 
-## Перейти в Landing Page: [GitHubPages](https://339598u5uut.github.io/REACT/)
+## Перейти в Landing Page: [GitHubPages](https://339598u5uut.github.io/REACT)
 
 
 ***  
